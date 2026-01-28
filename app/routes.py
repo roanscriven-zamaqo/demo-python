@@ -10,3 +10,5 @@ def index():
 @app.route('/greeting')
 def greeting():
     return "Hello there, thank you for visiting my new route"
+
+# End of file: app/routes.py
